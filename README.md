@@ -3,17 +3,15 @@
 # 👨‍💻 Tayyab Masood
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Cloud+Solutions+Architect+%26+DevOps+Lead;Founder+%26+Lead+Engineer+%40+OnesDev;AWS+Certified+Solutions+Architect+(SAA);Certified+Kubernetes+Administrator+(CKA);Bridging+Software+Development+%2B+Cloud+Ops" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Cloud+Solutions+Architect+%26+DevOps+Lead;AWS+Certified+Solutions+Architect+(SAA);Automating+Scalable+CI%2FCD+%26+Kubernetes;Bridging+Software+Development+%2B+Cloud+Ops" alt="Typing SVG" />
 </a>
 
 <br><br>
 
 [![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Certified_Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Certified Kubernetes Administrator](https://img.shields.io/badge/CKA-Certified_Kubernetes_Admin-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)](https://www.cncf.io/)
 [![Google IT Support Professional](https://img.shields.io/badge/Google-IT_Support_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://grow.google/certificates/it-support/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-tayyabmasood911-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayyabmasood911)
-[![Website](https://img.shields.io/badge/Website-onesdev.com-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://onesdev.com)
 [![Fiverr](https://img.shields.io/badge/Fiverr-tayyabmasood212-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/tayyabmasood212)
 [![Email](https://img.shields.io/badge/Email-tayyabmasood911%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tayyabmasood911@gmail.com)
 
@@ -23,8 +21,7 @@
 
 ### 🚀 About Me
 
-- 🌐 **Founder & Lead Developer** at **[OnesDev](https://onesdev.com)** — delivering end-to-end full-stack engineering and 24/7 cloud operations under our **"Build + Run"** methodology.
-- ☁️ **Specialization:** Enterprise AWS & Oracle Cloud architecture, Kubernetes (CKA) orchestration, automated CI/CD pipelines, Infrastructure as Code (Terraform), and containerization.
+- ☁️ **Specialization:** Enterprise AWS & Oracle Cloud architecture, Kubernetes container orchestration, automated CI/CD pipelines, Infrastructure as Code (Terraform), and containerization.
 - 💻 **Full-Stack Mastery:** Modern frontend architectures (Next.js, React, TypeScript) paired with resilient backends (Node.js, Express, Laravel, Python).
 - 🛡️ **DevSecOps & Reliability:** Zero-downtime rolling deployments, container vulnerability scanning (Trivy), Linux server hardening, and real-time observability (Prometheus/Grafana).
 - 💬 **Ask me about:** Cloud Migration, Dockerization, Helm Charts, Microservices Architecture, and FinOps cost optimization.
@@ -87,20 +84,11 @@
 
 | Repository | Tech Stack | Description |
 | :--- | :--- | :--- |
-| 🚀 **[python-aws-cicd-pipeline](https://github.com/T9113/python-aws-cicd-pipeline)** | `AWS` `Docker` `GitHub Actions` `Python` | Automated end-to-end continuous delivery pipeline provisioning and updating containerized microservices on AWS. |
-| ⚡ **[modern-react-app](https://github.com/T9113/modern-react-app)** | `React` `TypeScript` `Tailwind` | Production-grade frontend architecture featuring modular state management, custom hooks, and optimized UI components. |
+| 🚀 **[cloud-devops-cicd-blueprint](https://github.com/T9113/cloud-devops-cicd-blueprint)** | `Terraform` `Kubernetes` `AWS` `Docker` | Production-grade cloud delivery blueprint featuring AWS multi-AZ VPC, Kubernetes HPA, and automated GitHub Actions CI/CD with Trivy scanning. |
+| ⚡ **[python-aws-cicd-pipeline](https://github.com/T9113/python-aws-cicd-pipeline)** | `AWS` `Docker` `GitHub Actions` `Python` | Automated end-to-end continuous delivery pipeline provisioning and updating containerized microservices on AWS. |
+| 💻 **[modern-react-app](https://github.com/T9113/modern-react-app)** | `React` `TypeScript` `Tailwind` | Production-grade frontend architecture featuring modular state management, custom hooks, and optimized UI components. |
 | 🔒 **[mern-auth](https://github.com/T9113/mern-auth)** | `Node.js` `Express` `MongoDB` `JWT` | Production-ready authentication service with access/refresh token rotation, bcrypt hashing, and role-based access. |
 | 🤖 **[Diagnosis-AI](https://github.com/T9113/Diagnosis-AI)** | `Python` `OpenAI API` `FastAPI` | Intelligent operational diagnostics engine leveraging LLMs and automated log analysis pipelines. |
-
----
-
-### 🏢 About OnesDev
-
-At **[OnesDev](https://onesdev.com)**, we bridge the traditional gap between development agencies and infrastructure management:
-
-- **Full Lifecycle Engineering:** We don't just build code; we deploy, scale, and maintain it with strict 24/7 SLAs.
-- **Enterprise DevOps:** Automated deployments with zero manual SSH/FTP friction.
-- **Rapid Communication:** 20-minute inquiry response SLA.
 
 ---
 
@@ -110,9 +98,6 @@ At **[OnesDev](https://onesdev.com)**, we bridge the traditional gap between dev
   <a href="https://www.linkedin.com/in/tayyabmasood911">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://onesdev.com">
-    <img src="https://img.shields.io/badge/OnesDev-Agency_Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
   <a href="https://www.fiverr.com/tayyabmasood212">
     <img src="https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
   </a>
@@ -120,4 +105,3 @@ At **[OnesDev](https://onesdev.com)**, we bridge the traditional gap between dev
     <img src="https://img.shields.io/badge/Email-Direct_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
-
