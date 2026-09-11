@@ -22,3 +22,17 @@
 - ?? **Specialization:** Enterprise AWS & Oracle Cloud architecture, Kubernetes (CKA) orchestration, automated CI/CD pipelines, Infrastructure as Code (Terraform), and containerization.
 - ?? **Full-Stack Mastery:** Modern frontend architectures (Next.js, React, TypeScript) paired with resilient backends (Node.js, Express, Laravel, Python).
 - ??? **DevSecOps & Reliability:** Zero-downtime rolling deployments, container vulnerability scanning (Trivy), Linux server hardening, and real-time observability (Prometheus/Grafana).
+---
+
+### ?? GitHub Activity & Metrics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=T9113&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T9113&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165" alt="Top Languages" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=T9113&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+
+</div>
