@@ -1,107 +1,58 @@
 <div align="center">
 
-# 👨‍💻 Tayyab Masood
+# Tayyab Masood
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Cloud+Solutions+Architect+%26+DevOps+Lead;AWS+Certified+Solutions+Architect+(SAA);Automating+Scalable+CI%2FCD+%26+Kubernetes;Bridging+Software+Development+%2B+Cloud+Ops" alt="Typing SVG" />
-</a>
+**Cloud & DevOps Engineer — AWS · Kubernetes · Terraform · CI/CD**
 
-<br><br>
+I build and automate the infrastructure behind applications: cloud networks, Kubernetes deployments, Terraform modules, and delivery pipelines with security checks built in.
 
-[![AWS Certified Solutions Architect](https://img.shields.io/badge/AWS-Certified_Solutions_Architect-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
-[![Google IT Support Professional](https://img.shields.io/badge/Google-IT_Support_Professional-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://grow.google/certificates/it-support/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tayyabmasood911-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayyabmasood911)
-[![Fiverr](https://img.shields.io/badge/Fiverr-tayyabmasood212-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/tayyabmasood212)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tayyabmasood911)
 [![Email](https://img.shields.io/badge/Email-tayyabmasood911%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tayyabmasood911@gmail.com)
+[![Fiverr](https://img.shields.io/badge/Fiverr-Work_with_me-1DBF73?style=flat-square&logo=fiverr&logoColor=white)](https://www.fiverr.com/tayyabmasood212)
 
 </div>
 
 ---
 
-### 🚀 About Me
+## What I work with
 
-- ☁️ **Specialization:** Enterprise AWS & Oracle Cloud architecture, Kubernetes container orchestration, automated CI/CD pipelines, Infrastructure as Code (Terraform), and containerization.
-- 💻 **Full-Stack Mastery:** Modern frontend architectures (Next.js, React, TypeScript) paired with resilient backends (Node.js, Express, Laravel, Python).
-- 🛡️ **DevSecOps & Reliability:** Zero-downtime rolling deployments, container vulnerability scanning (Trivy), Linux server hardening, and real-time observability (Prometheus/Grafana).
-- 💬 **Ask me about:** Cloud Migration, Dockerization, Helm Charts, Microservices Architecture, and FinOps cost optimization.
+| Area | Tools & topics |
+| :--- | :--- |
+| **Cloud & infrastructure as code** | AWS (VPC, EKS, S3, IAM), Terraform, Ansible, Linux |
+| **Containers & delivery** | Docker, Kubernetes, Helm, GitHub Actions, GitOps, Nginx |
+| **Security & reliability** | Trivy scanning, SBOM, Cosign / SLSA signing, least-privilege IAM, Prometheus & Grafana |
+| **Application development** | Python / FastAPI, Node.js / Express, React / Next.js / TypeScript, PostgreSQL, MongoDB, Redis |
 
----
-
-### 📊 GitHub Activity & Metrics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=T9113&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=T9113&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165" alt="Top Languages" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=T9113&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-
-</div>
+<!-- CERTIFICATIONS: only list credentials you can verify publicly, and link each badge to its verification page (e.g. Credly). Unverifiable claims are a liability in a portfolio. -->
 
 ---
 
-### 🛠️ Core Tech Stack & Tools
+## Selected projects
 
-<table>
-  <tr>
-    <td align="center" width="120"><b>Cloud & IaC</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=aws,terraform,ansible,linux,ubuntu,debian" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120"><b>Containers & Ops</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,gitlab,nginx,bash" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120"><b>Frontend</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,bootstrap,html,css" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120"><b>Backend & DBs</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,python,postgres,mysql,mongodb,redis,firebase" />
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="120"><b>Observability</b></td>
-    <td>
-      <img src="https://skillicons.dev/icons?i=prometheus,grafana,postman,git,vscode,ai" />
-    </td>
-  </tr>
-</table>
+| Project | What it shows |
+| :--- | :--- |
+| 🚀 **[cloud-devops-cicd-blueprint](https://github.com/T9113/cloud-devops-cicd-blueprint)** | Terraform AWS networking, Kubernetes deployment + HPA manifests, Dockerfile, and a GitHub Actions pipeline with Trivy scanning — one end-to-end delivery path. |
+| 🔏 **[cosign-slsa-container-image-signing](https://github.com/T9113/cosign-slsa-container-image-signing)** | Signing and verifying container images with Sigstore Cosign, plus SLSA provenance scripts. |
+| ⚡ **[python-aws-cicd-pipeline](https://github.com/T9113/python-aws-cicd-pipeline)** | A containerised Python service with an AWS CodeBuild spec, GitHub Actions CI and tests. |
+| ☸️ **[terraform-aws-eks-production-cluster](https://github.com/T9113/terraform-aws-eks-production-cluster)** | Terraform files for an EKS cluster with managed node groups (`main.tf`, `node_group.tf`, `variables.tf`). |
+| 💻 **[modern-react-app](https://github.com/T9113/modern-react-app)** | Next.js / TypeScript / Tailwind frontend — the application side of the stack. |
+| 📁 **[cloud-devops-portfolio](https://github.com/T9113/cloud-devops-portfolio)** | Setup guide, profile README, and a `showcase-projects/` index of the infrastructure work. |
+
+> These are reference implementations and learning projects, not production systems. I am updating each repository README to state exactly what is implemented and what is not.
 
 ---
 
-### 🌟 Highlighted Projects
+## Currently
 
-| Repository | Tech Stack | Description |
-| :--- | :--- | :--- |
-| 🚀 **[cloud-devops-cicd-blueprint](https://github.com/T9113/cloud-devops-cicd-blueprint)** | `Terraform` `Kubernetes` `AWS` `Docker` | Production-grade cloud delivery blueprint featuring AWS multi-AZ VPC, Kubernetes HPA, and automated GitHub Actions CI/CD with Trivy scanning. |
-| ⚡ **[python-aws-cicd-pipeline](https://github.com/T9113/python-aws-cicd-pipeline)** | `AWS` `Docker` `GitHub Actions` `Python` | Automated end-to-end continuous delivery pipeline provisioning and updating containerized microservices on AWS. |
-| 💻 **[modern-react-app](https://github.com/T9113/modern-react-app)** | `React` `TypeScript` `Tailwind` | Production-grade frontend architecture featuring modular state management, custom hooks, and optimized UI components. |
-| 🔒 **[mern-auth](https://github.com/T9113/mern-auth)** | `Node.js` `Express` `MongoDB` `JWT` | Production-ready authentication service with access/refresh token rotation, bcrypt hashing, and role-based access. |
-| 🤖 **[Diagnosis-AI](https://github.com/T9113/Diagnosis-AI)** | `Python` `OpenAI API` `FastAPI` | Intelligent operational diagnostics engine leveraging LLMs and automated log analysis pipelines. |
+- 🔧 Deepening Kubernetes security and supply-chain work (image signing, SBOM, policy as code).
+- 📝 Turning each reference project into a short technical write-up with an architecture diagram.
+- 💬 **Open to** Cloud / DevOps / Platform engineering roles and freelance infrastructure work.
 
 ---
 
-### 📬 Get in Touch
+## Get in touch
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/tayyabmasood911">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.fiverr.com/tayyabmasood212">
-    <img src="https://img.shields.io/badge/Fiverr-Hire_Me-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
-  </a>
-  <a href="mailto:tayyabmasood911@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Direct_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+The fastest way to reach me is **email**: [tayyabmasood911@gmail.com](mailto:tayyabmasood911@gmail.com)
+You can also connect on [LinkedIn](https://www.linkedin.com/in/tayyabmasood911) or view my services on [Fiverr](https://www.fiverr.com/tayyabmasood212).
+
+<!-- Replace the three links above with your current, working URLs. A single broken contact link loses the opportunity. -->
