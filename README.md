@@ -31,12 +31,12 @@ I build and automate the infrastructure behind applications: cloud networks, Kub
 
 | Project | What it shows |
 | :--- | :--- |
-| 🚀 **[cloud-devops-cicd-blueprint](https://github.com/T9113/cloud-devops-cicd-blueprint)** | Terraform AWS networking, Kubernetes deployment + HPA manifests, Dockerfile, and a GitHub Actions pipeline with Trivy scanning — one end-to-end delivery path. |
-| 🔏 **[cosign-slsa-container-image-signing](https://github.com/T9113/cosign-slsa-container-image-signing)** | Signing and verifying container images with Sigstore Cosign, plus SLSA provenance scripts. |
-| ⚡ **[python-aws-cicd-pipeline](https://github.com/T9113/python-aws-cicd-pipeline)** | A containerised Python service with an AWS CodeBuild spec, GitHub Actions CI and tests. |
-| ☸️ **[terraform-aws-eks-production-cluster](https://github.com/T9113/terraform-aws-eks-production-cluster)** | Terraform files for an EKS cluster with managed node groups (`main.tf`, `node_group.tf`, `variables.tf`). |
-| 💻 **[modern-react-app](https://github.com/T9113/modern-react-app)** | Next.js / TypeScript / Tailwind frontend — the application side of the stack. |
-| 📁 **[cloud-devops-portfolio](https://github.com/T9113/cloud-devops-portfolio)** | Setup guide, profile README, and a `showcase-projects/` index of the infrastructure work. |
+| 🚀 **[cloud-devops-cicd-blueprint](https://github.com/tayyabmasood911/cloud-devops-cicd-blueprint)** | Terraform AWS networking, Kubernetes deployment + HPA manifests, Dockerfile, and a GitHub Actions pipeline with Trivy scanning — one end-to-end delivery path. |
+| 🔏 **[cosign-slsa-container-image-signing](https://github.com/tayyabmasood911/cosign-slsa-container-image-signing)** | Signing and verifying container images with Sigstore Cosign, plus SLSA provenance scripts. |
+| ⚡ **[python-aws-cicd-pipeline](https://github.com/tayyabmasood911/python-aws-cicd-pipeline)** | A containerised Python service with an AWS CodeBuild spec, GitHub Actions CI and tests. |
+| ☸️ **[terraform-aws-eks-production-cluster](https://github.com/tayyabmasood911/terraform-aws-eks-production-cluster)** | Terraform files for an EKS cluster with managed node groups (`main.tf`, `node_group.tf`, `variables.tf`). |
+| 💻 **[modern-react-app](https://github.com/tayyabmasood911/modern-react-app)** | Next.js / TypeScript / Tailwind frontend — the application side of the stack. |
+| 📁 **[cloud-devops-portfolio](https://github.com/tayyabmasood911/cloud-devops-portfolio)** | Setup guide, profile README, and a `showcase-projects/` index of the infrastructure work. |
 
 > These are reference implementations and learning projects, not production systems. I am updating each repository README to state exactly what is implemented and what is not.
 
