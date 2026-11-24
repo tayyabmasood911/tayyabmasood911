@@ -31,6 +31,7 @@ I build and automate the infrastructure behind applications: cloud networks, Kub
 
 | Project | What it shows |
 | :--- | :--- |
+| 🏗️ **[aws-devops-platform-engineering-hub](https://github.com/tayyabmasood911/aws-devops-platform-engineering-hub)** | Enterprise AWS Platform Engineering Hub with GitOps (Argo CD), Multi-Account Terraform IaC, and Kubernetes mesh. |
 | 🚀 **[cloud-devops-cicd-blueprint](https://github.com/tayyabmasood911/cloud-devops-cicd-blueprint)** | Terraform AWS networking, Kubernetes deployment + HPA manifests, Dockerfile, and a GitHub Actions pipeline with Trivy scanning — one end-to-end delivery path. |
 | 🔏 **[cosign-slsa-container-image-signing](https://github.com/tayyabmasood911/cosign-slsa-container-image-signing)** | Signing and verifying container images with Sigstore Cosign, plus SLSA provenance scripts. |
 | ⚡ **[python-aws-cicd-pipeline](https://github.com/tayyabmasood911/python-aws-cicd-pipeline)** | A containerised Python service with an AWS CodeBuild spec, GitHub Actions CI and tests. |
