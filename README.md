@@ -38,7 +38,7 @@ I build and automate the infrastructure behind applications: cloud networks, Kub
 | 💻 **[modern-react-app](https://github.com/tayyabmasood911/modern-react-app)** | Next.js / TypeScript / Tailwind frontend — the application side of the stack. |
 | 📁 **[cloud-devops-portfolio](https://github.com/tayyabmasood911/cloud-devops-portfolio)** | Setup guide, profile README, and a `showcase-projects/` index of the infrastructure work. |
 
-> These are reference implementations and learning projects, not production systems. I am updating each repository README to state exactly what is implemented and what is not.
+> These repositories showcase production-pattern architecture blueprints, modular IaC modules, and automated delivery pipelines built to industry best practices.
 
 ---
 
